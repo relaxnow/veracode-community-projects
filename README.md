@@ -48,7 +48,9 @@ Results collection and display
 
 * [Excel (XLS)](https://github.com/Komiblanka/Veracode2xls), [(XLSX)](https://github.com/Komiblanka/Veracode2xlsx) ([Komiblanka](https://github.com/Komiblanka/))- Python scripts to format Veracode XML results into Excel workbook formats for easier human consumption.
 
-* [go Veracode results](https://github.com/m4l1c3/go-veracode-results) ([M4l1c3](https://github.com/m4l1c3/)) - Go utility for processing Veracode results
+* [go Veracode results](https://github.com/m4l1c3/go-veracode-results) ([M4l1c3](https://github.com/m4l1c3/)) - Go utility for downloading Veracode results
+
+* [Veracode Flaws XMl to CSV](https://github.com/brian1917/vcodeFlawsXMLtoCSV) ([Brian1917](https://github.com/brian1917)) - Creates a CSV file with flaw details from XML file.
 
 * [Hygieia](https://github.com/mickfeech/hygieia_veracode_collector) ([Mickfeech](https://github.com/mickfeech/)) - Veracode scan collector and parser for the [Hygieia dashboard](https://github.com/Hygieia/ExecDashboard).
 
